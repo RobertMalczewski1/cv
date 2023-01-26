@@ -1,8 +1,15 @@
-.home-container{
+.header-container{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    min-height: 670px;
+    min-height: 550px;
     
-    background-image: url("../../assets/Home/bg.jpg");
+   background-image: url("../../assets/Home/bg.jpg");
+}
+.second-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 30px;
+    
 }

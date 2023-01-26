@@ -1,0 +1,24 @@
+.school-container{
+    
+    margin: auto;
+}
+
+.school-profile-picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:180px;
+    width: 250px;  
+    
+    margin: auto;  
+}
+
+.school-profile-picture-background{
+    height: 90%;
+    width: 90%;
+    background-image: url("../../../assets/Home/wsb-image.jpg");
+    background-size: cover;  
+    
+    background-repeat: no-repeat;
+    background-position: center;
+}
